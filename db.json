@@ -1,0 +1,10 @@
+{
+  "dailyTasks": [
+    {
+      "text": "Memorizing the Quran",
+      "day": "Monday at 5:00am",
+      "reminder": false,
+      "id": 1
+    }
+  ]
+}
